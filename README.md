@@ -20,5 +20,5 @@ This project uses historical Bitcoin data and machine learning models to predict
    ```bash
    git clone https://github.com/your-username/bitcoin-price-prediction.git
    cd bitcoin-price-prediction
-![App Screenshot](main/Figure_1.png)
-![App Screenshot](main/Figure_2.png)
+![Output_1](Figure_1.png)
+![Output_2](Figure_2.png)
